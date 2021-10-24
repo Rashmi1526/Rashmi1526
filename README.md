@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rashmi</h1>
-<h3 align="center">A frontend developer</h3>
+## Hi there, I'm [**Rashmi!**](https://github.com/rashmi1526) <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
-- 👨‍💻 All of my projects are available at [https://rashmi1526.github.io/portfolio/](https://rashmi1526.github.io/portfolio/)
 
-- 📫 How to reach me **rashmisingh261@outlook.com**
+
+Hi, I'm Rashmi Singh, a passionate Front-end Developer.
+- 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
+- 🔎 I'm looking forward to contribute to some open source Web Development projects. 
+- 👨‍💻 You can have a look on my portfolio through  [https://rashmi1526.github.io/portfolio/](https://rashmi1526.github.io/portfolio/)
+- 📫 Reach me at **rashmisingh261@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
