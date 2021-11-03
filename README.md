@@ -4,7 +4,7 @@
 
 Hi, I'm Rashmi Singh, a passionate Front-end Developer.
 - 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
-- 🔎 I'm looking forward to contribute to some open source Web Development projects. 
+- 🔎 I'm looking forward to contribute to some open source Front-end Development projects. 
 - 👨‍💻 You can have a look on my portfolio through  [https://rashmi1526.github.io/portfolio/](https://rashmi1526.github.io/portfolio/)
 - 📫 Reach me at **rashmisingh261@outlook.com**
 
