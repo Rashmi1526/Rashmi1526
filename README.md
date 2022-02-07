@@ -8,6 +8,8 @@ Hi, I'm Rashmi Singh, a passionate Front-end Developer.
 - 👨‍💻 You can have a look on my portfolio through  [https://rashmi1526.github.io/portfolio/](https://rashmi1526.github.io/portfolio/)
 - 📫 Reach me at **rashmisingh261@outlook.com**
 
+***
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rashmisingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashmisingh_" height="30" width="40" /></a>
