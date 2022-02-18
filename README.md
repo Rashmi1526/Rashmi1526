@@ -1,6 +1,6 @@
 ## Hi there, I'm [**Rashmi!**](https://github.com/rashmi1526) <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
-***
+
 
 Hi, I'm Rashmi Singh, a passionate Front-end Developer.
 - 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
