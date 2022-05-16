@@ -1,8 +1,11 @@
 ## Hi there, I'm [**Rashmi!**](https://github.com/rashmi1526) <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi1526&label=Profile%20views&color=0e75b6&style=flat" alt="trongbui1105" /> </p>
+<p>
 Hi, I'm Rashmi Singh, a passionate Front-end Developer.
+  
+  
 - 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
 - 🔎 I'm looking forward to contribute to some open source Front-end Development projects. 
 - 👨‍💻 You can have a look on my portfolio through  [https://rashmi1526.github.io/portfolio/](https://rashmi1526.github.io/portfolio/)
