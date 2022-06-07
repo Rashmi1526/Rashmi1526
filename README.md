@@ -1,4 +1,4 @@
-## Hi there, I'm [**Rashmi!**](https://github.com/rashmi1526) <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+## Hi there, I'm [**Rashmi!**](https://github.com/rashmi1526) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi1526&label=Profile%20views&color=0e75b6&style=flat" alt="trongbui1105" /> </p>
